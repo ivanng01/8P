@@ -1,0 +1,15 @@
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\bin\Debug\net6.0\8P.exe
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\bin\Debug\net6.0\8P.deps.json
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\bin\Debug\net6.0\8P.runtimeconfig.json
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\bin\Debug\net6.0\8P.dll
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\bin\Debug\net6.0\8P.pdb
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\obj\Debug\net6.0\8P.csproj.AssemblyReference.cache
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\obj\Debug\net6.0\8P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\obj\Debug\net6.0\8P.AssemblyInfoInputs.cache
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\obj\Debug\net6.0\8P.AssemblyInfo.cs
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\obj\Debug\net6.0\8P.csproj.CoreCompileInputs.cache
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\obj\Debug\net6.0\8P.dll
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\obj\Debug\net6.0\refint\8P.dll
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\obj\Debug\net6.0\8P.pdb
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\obj\Debug\net6.0\8P.genruntimeconfig.cache
+C:\Users\IVAN GONZALEZ\source\repos\8P\8P\obj\Debug\net6.0\ref\8P.dll
